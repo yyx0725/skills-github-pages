@@ -14,7 +14,7 @@ else:
     print('You failed the vibe check.')
 ```
 
-Also, I wonder if it supports formulas like $ \frac{1}{2} * \nable F_{\theta} $.
+Also, I wonder if it supports formulas like $ \frac{1}{2} * \nabla F_{\theta} $.
 
 > Meow.
 
